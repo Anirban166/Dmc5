@@ -2,7 +2,7 @@
 % Please edit documentation in R/modCount.R
 \name{modCount}
 \alias{modCount}
-\title{modules counter}
+\title{Modules counter}
 \usage{
 modCount(url)
 }

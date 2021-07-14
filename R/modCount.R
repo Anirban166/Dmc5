@@ -1,6 +1,6 @@
 #' Function to obtain the number of mods that exist on nexusmods for a particular game
 #'
-#' @title modules counter
+#' @title Modules counter
 #'
 #' @param url A nexusmods game-page url
 #'
