@@ -1,0 +1,18 @@
+Package: Dmc5
+Title: Dmc5 content
+Version: 0.0.0.9
+Author: Blood Raven <bloodraven166@gmail.com> 
+Maintainer: Blood Raven <bloodraven166@gmail.com>
+Description: Devil May Cry 5 related stuff.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+URL: https://github.com/Anirban166/Dmc5
+BugReports: https://github.com/Anirban166/Dmc5/issues
+Imports:
+    rvest,
+    stringr
+Suggests: 
+    testthat (>= 3.0.0)
