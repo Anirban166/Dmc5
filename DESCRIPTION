@@ -15,4 +15,5 @@ Imports:
     rvest,
     stringr
 Suggests: 
+    covr,
     testthat (>= 3.0.0)
